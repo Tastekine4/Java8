@@ -1,6 +1,6 @@
 package part2.stream;
 
-import data.StudentDataBase;
+import data .StudentDataBase;
 
 public class StreamMatchExample {
 
